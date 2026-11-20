@@ -1,0 +1,2 @@
+model,num_volumes,num_slices,cls_accuracy,cls_precision,cls_recall,cls_f1,seg_dice_slice_mean,seg_iou_slice_mean,seg_dice_volume_mean,seg_iou_volume_mean,depth_mae,depth_rmse
+3D CNN Teacher,38,2432,0.9568256578947368,0.9542801556420234,0.944177093358999,0.9492017416545718,0.9046840155662167,0.8732585997796253,0.8990428118329299,0.8237515013468893,0.05750487182878148,0.06851882891319691

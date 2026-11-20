@@ -1,0 +1,2 @@
+model,num_volumes,num_slices,cls_accuracy,cls_precision,cls_recall,cls_f1,seg_dice_slice_mean,seg_iou_slice_mean,depth_mae,depth_rmse
+Isolated 2D CNN Student,38,2432,0.9420230263157895,0.9235849056603773,0.9422521655437921,0.932825154835636,0.893353840722504,0.8609343400701089,0.08526015550094435,0.13323689119616544
